@@ -1,0 +1,23 @@
+{
+  "name": "cryptozombies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:quangdangfit/cryptozombies.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quangdangfit/cryptozombies/issues"
+  },
+  "homepage": "https://github.com/quangdangfit/cryptozombies#readme",
+  "dependencies": {
+    "web3": "^1.5.2"
+  },
+  "devDependencies": {}
+}
